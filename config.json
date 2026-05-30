@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysender",
+        "uuid": 10252740,
+        "checksum": "ub3o2b"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
